@@ -1,2 +1,2 @@
 
-# This is sever of Phonebook App
+# This is Server of Phonebook App
